@@ -27,16 +27,16 @@
   "work": [
     {
       "company": "Ouat!",
-      "position": "Freelance Software Developper",
+      "position": "Freelance Software Developer",
       "website": "https://app.hakobio2.com/",
       "startDate": "November 2017",
       "endDate": "",
-      "summary": "- Developpment and maintenance of Hakobio v2 built with React and Unity3D for the frontend and ASP.NET for the backend. \n - Developpment from scratch of Hakobio-Holo for the Hololens and Hakobio-VR for the Oculus quest [link](https://www.rtbf.be/info/regions/detail_l-entreprise-bruxelloise-ouat-forme-virtuellement-des-producteurs-de-vaccins-contre-le-covid?id=10649008)",
+      "summary": "- Development and maintenance of Hakobio v2 built with React and Unity3D for the frontend and ASP.NET for the backend. \n - Development from scratch of Hakobio-Holo for the Hololens and Hakobio-VR for the Oculus quest [link](https://www.rtbf.be/info/regions/detail_l-entreprise-bruxelloise-ouat-forme-virtuellement-des-producteurs-de-vaccins-contre-le-covid?id=10649008)",
       "highlights": []
     },
     {
       "company": "Atlas Experience",
-      "position": "Freelance Software Developper",
+      "position": "Freelance Software Developer",
       "website": "https://www.atlas-experience.xyz/index.html",
       "startDate": "August 2018",
       "endDate": "Octobre 2018",
@@ -45,7 +45,7 @@
     },
     {
       "company": "CoverHolo",
-      "position": "Intern Software Developper",
+      "position": "Intern Software Developer",
       "website": "https://youtu.be/TgzdAQY9X_s",
       "startDate": "February 2017",
       "endDate": "May 2017",

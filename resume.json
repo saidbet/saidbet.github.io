@@ -5,57 +5,47 @@
     "picture": "",
     "email": "said.b@outlook.com",
     "phone": "+32 477/13.49.79",
-    "website": "www.linkedin.com/in/saidb23",
-    "summary": "I have a very good knowledge of Unity and React and I understand and adapt very quickly to any project or technology. I had initially started as a Unity Developer with no prior experience in front-end and back-end development, but I quickly adapted for the needs of my client and I have now been working with react for half a year. I integrated multiple new functionnalities to their platform by updating both the front-end and the backend which is made with ASP.net and Entity Framework. I am currently working for my client on maintaining and adding new features to Hakobio (Unity WebGL builder communicating with a react web interface), Hakobio-Holo (unity) and Hakobio-VR (unity).",
+    "website": "http://saidb.me",
     "location": {
-      "address": " ",
       "postalCode": "7100",
       "city": "La Louvière",
       "countryCode": "Belgium",
       "region": ""
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "github",
+        "username": "saidbet",
+        "url": "https://github.com/saidbet"
+      },
+      {
+        "network": "linkedin",
+        "url": "https://www.linkedin.com/in/saidb23"
+      }
+    ]
   },
   "work": [
     {
-      "company": "Hakobio - Ouat",
-      "position": "",
+      "company": "Ouat!",
+      "position": "Freelance Software Developper",
       "website": "https://app.hakobio2.com/",
       "startDate": "November 2017",
       "endDate": "",
-      "summary": "Hakobio is a platform that allows biopharmaceutical and medical companies  to design laboratories plans and concepts. Working on the WebGL builder with Unity3D and front-end with ReactJs. The platform is still in development.",
+      "summary": "- Developpment and maintenance of Hakobio v2 built with React and Unity3D for the frontend and ASP.NET for the backend. \n - Developpment from scratch of Hakobio-Holo for the Hololens and Hakobio-VR for the Oculus quest [link](https://www.rtbf.be/info/regions/detail_l-entreprise-bruxelloise-ouat-forme-virtuellement-des-producteurs-de-vaccins-contre-le-covid?id=10649008)",
       "highlights": []
     },
     {
-      "company": "Hakobio Holo - Ouat",
-      "position": "",
-      "website": "",
-      "startDate": "November 2017",
-      "endDate": "",
-      "summary": "Development of Hakobio-Holo. Hakobio-Holo is a Hololens application that allows a user to retrieve his project from the Hakobio platform, and visualize it in 3D. The app is regularly updated to meet client's needs.",
-      "highlights": []
-    },
-    {
-      "company": "Hakobio VR - Ouat",
-      "position": "",
-      "website": "",
-      "startDate": "November 2017",
-      "endDate": "",
-      "summary": "Development of Hakobio VR. Hakobio VR is a GearVR application that allows a user to retrieve his projects from the Hakobio platform, and visualize them in 3D. The app is regularly updated to meet client's needs.",
-      "highlights": []
-    },
-    {
-      "company": "Atlas Experience - Yann Deval",
-      "position": "",
-      "website": "https://youtu.be/5MxxcLrMgEE",
+      "company": "Atlas Experience",
+      "position": "Freelance Software Developper",
+      "website": "https://www.atlas-experience.xyz/index.html",
       "startDate": "August 2018",
       "endDate": "Octobre 2018",
       "summary": "Atlas is a Hololens and Vive artistic experience developed by Yann Deval. I worked on adding new features and optimising the code.",
       "highlights": []
     },
     {
-      "company": "CoverHolo - Microsoft Innovation Center",
-      "position": "",
+      "company": "CoverHolo",
+      "position": "Intern Software Developper",
       "website": "https://youtu.be/TgzdAQY9X_s",
       "startDate": "February 2017",
       "endDate": "May 2017",
@@ -77,7 +67,7 @@
   "education": [
     {
       "institution": "Haute École en Hainaut",
-      "area": "Information Technology",
+      "area": "Computer science and systems",
       "studyType": "Bachelor",
       "startDate": "2014",
       "endDate": "2017",
@@ -94,19 +84,48 @@
       "keywords": [
         "C#",
         "WebGL",
-        "VR (mobile and desktop)",
-        "MR (Hololens)",
-        "Vuforia"
+        "VR",
+        "MR",
+        "Vuforia",
+        "Oculus"
       ]
     },
     {
-      "name": "Web Development",
-      "level": "Advanced",
+      "name": "ThreeJS",
+      "level": "Master",
+      "keywords": [
+        "ThreeJs",
+        "BabylonJs",
+        "GLTF",
+        "3D",
+        "WebGL"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Master",
       "keywords": [
         "HTML",
         "CSS",
-        "ReactJS",
+        "React",
         "Redux"
+      ]
+    },
+    {
+      "name": "ASP.NET / .NET Core",
+      "level": "Advanced",
+      "keywords": [
+        "ASP.NET",
+        "Entity Framework",
+        "SQL"
+      ]
+    },
+    {
+      "name": "NodeJs",
+      "level": "Advanced",
+      "keywords": [
+        "Nodejs",
+        "MongoDB"
       ]
     }
   ],
@@ -117,21 +136,23 @@
     },
     {
       "language": "English",
-      "fluency": "C2"
+      "fluency": "Fluent"
     }
   ],
   "interests": [
     {
-      "name": "Reading",
+      "name": "3D Modeling",
       "keywords": [
-        "Books (Programming, Science, Entrepreneurship)",
-        "Online (Reddit, Medium)"
+        "Blender",
+        "Animations",
+        "Rigging"
       ]
     },
     {
-      "name": "3D Modeling",
+      "name": "Reading",
       "keywords": [
-        "Blender"
+        "Online (Reddit)",
+        "Books (Programming, Science, Entrepreneurship)"
       ]
     }
   ],
